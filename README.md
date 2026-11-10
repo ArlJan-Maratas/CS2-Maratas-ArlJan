@@ -7,3 +7,9 @@ This program calculates the user's electricity bill using the rates and the prev
 - Process: Calculates and displays the electricity bill using the given rate and input values. 
 - Output: Electricity Bill. 
 - Does not include input validation.
+
+## Version 2 - Original code with input validation
+- Input: Asks for the user's name, previous and current meter reading. 
+- Process: Calculates and displays the electricity bill using the given rate and input values. 
+- Output: Electricity Bill. 
+- Includes input validation for all inputs. 
